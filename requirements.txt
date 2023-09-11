@@ -1,0 +1,7 @@
+Python 
+flask
+flask_sqlalchemy
+flask_migrate
+datetime
+HTML
+Bootstrap
